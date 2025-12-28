@@ -1,3 +1,3 @@
-## Profile Metadata
+## Developer Profile
 
-Supporting assets used to maintain and present structured developer profile information.
+Content and references supporting my public engineering profile.
